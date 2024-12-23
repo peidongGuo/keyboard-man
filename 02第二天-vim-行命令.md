@@ -14,4 +14,15 @@
 
 ## 练习
 
+lasdjflajsldfhh hhhhhhhh hhhhhhhh lllllllllllllllj
+
 1. 此文档编写都是用的 vim 的编辑手法；非常不适应；
+
+2. 这个用来测试你是否掌握了一行的快速定位。
+   asdflllllllksadddddffalskdflasdflasdlfkjoj  
+    sadjfl
+   ;aksdfojsdjffflljljj;
+   lsdjflasdjf
+   O
+
+¡¡¡¡¡
